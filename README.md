@@ -15,7 +15,7 @@
 [Ссылка на схему алгоритма](https://app.diagrams.net/#G14YayGuz6oFdOXtC3rL7mrDrecyB7QxZP)
 
 
-[Ссылка на код программы]()
+[Ссылка на код программы](https://github.com/Tatijana3004/FinalLessonSpecialization/blob/main/Program.cs)
 
 ## Инструкция:
 
